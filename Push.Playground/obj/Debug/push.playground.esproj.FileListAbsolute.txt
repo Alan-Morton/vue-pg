@@ -1,0 +1,2 @@
+C:\Projects\Push.Playground\Push.Playground\Push.Playground\obj\Debug\push.playground.esproj.SuggestedBindingRedirects.cache
+C:\Projects\Push.Playground\Push.Playground\Push.Playground\obj\Debug\push.playground.esproj.CoreCompileInputs.cache
